@@ -4,15 +4,25 @@ Project Objective: To conduct a comprehensive analysis of Blinkit’s sales perf
 
 **Steps in Project-**
 •	Requirement Gathering/ Business requirement
+
 •	Data collection/ data walkthrough
+
 •	Data connection
+
 •	Data cleaning/ Quality Check 
+
 •	Data Modeling 
+
 •	Data Processing 
+
 •	DAX Calculations 
+
 •	Dashboard lay outing 
+
 •	Charts Development and Formatting 
+
 •	Dashboard/ Report Development 
+
 •	Insights Generation
 
 **Outcome -** 
